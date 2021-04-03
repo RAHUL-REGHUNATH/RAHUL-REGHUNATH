@@ -1,4 +1,4 @@
-### PYTHON DEVELOPER -
+### PYTHON DEVELOPER 
 
 - 🔭 I’m currently working on Datawarehousing (ETL) project
 - 🌱 I’m currently learning Data Engineering, Devops
